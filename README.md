@@ -1,32 +1,26 @@
 # RecipeBook
+This project was generated with [angular-cli](https://github.com/angular/angular-cli)
 
-This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
+# Getting the tools
+ 1. download and install Nodejs from  https://nodejs.org/en/download/    
+ 2. As a frontend IDE use <br>
+    code.visualstudio.com
+ 3. install angular-cli globally in cmd
+    <b> npm install -g angular-cli  </b><br>
 
-## Development server
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+# Setup project
+ Create new directory "project" and checkout the project using command line. <br>
+ Run <b>git clone https://github.com/udayangaranasinghe/recipe-book.git</b>
 
-## Code scaffolding
+# Install the repo with npm
+ Run <b>cd recipe-book</b> <br>
+ Run <b>....\recipe-book > npm install -g typescript </b> <br>
+ Run <b>....\recipe-book > npm install </b>
+ 
+# Start the server
+ Run <b>....\recipe-book >ng serve</b> 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class/module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
-
-## Deploying to GitHub Pages
-
-Run `ng github-pages:deploy` to deploy to GitHub Pages.
-
-## Further help
-
-To get more help on the `angular-cli` use `ng help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-"# my-recipe-book" 
+# Launch application
+ http://localhost:4200/
+ 
+ 
